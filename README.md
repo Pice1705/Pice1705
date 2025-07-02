@@ -14,38 +14,99 @@
 
 ### 🛠️ Tech Stack:
 
+## 🛠️ Tech Stack & Tools
+
+---
+
+### 🔗 Automatización y No-Code / Low-Code
 <p align="left">
-  
-  <!-- Automation -->
-  <img src="https://static-00.iconduck.com/assets.00/n8n-icon-512x512-m9vmxhu3.png" alt="n8n" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Zapier-logo.svg" alt="Zapier" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Make_logo_icon.svg" alt="Make" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/webhooks-icon-256x256-gtw0lhfs.png" alt="Webhooks" width="40" height="40"/>
-
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-
-  <!-- Backend & Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-
-  <!-- Cloud & APIs -->
-  <img src="https://static-00.iconduck.com/assets.00/api-icon-512x512-9qf0t3s3.png" alt="APIs" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/postman-icon-512x512-bvgzhvcd.png" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-
-  <!-- AI -->
-  <img src="https://static-00.iconduck.com/assets.00/openai-icon-512x512-nzcs1db9.png" alt="OpenAI" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/139407347?s=280&v=4" alt="LangChain" width="40" height="40"/>
-
+  <img src="https://static-00.iconduck.com/assets.00/n8n-icon-512x512-m9vmxhu3.png" width="30"/> n8n  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Zapier-logo.svg" width="30"/> Zapier  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Make_logo_icon.svg" width="30"/> Make  
 </p>
+
+---
+
+### 🖥️ Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/> C#  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React  
+</p>
+
+---
+
+### 🔧 Open Source Tools
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/93197406?s=200&v=4" width="30"/> Typebot  
+  <img src="https://avatars.githubusercontent.com/u/170858631?s=200&v=4" width="30"/> Evolution API  
+  <img src="https://avatars.githubusercontent.com/u/150088218?s=200&v=4" width="30"/> Dify  
+  <img src="https://avatars.githubusercontent.com/u/142865401?s=200&v=4" width="30"/> Flowise AI  
+</p>
+
+---
+
+### 📦 Infrastructure, DevOps & Containers
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/32798795?s=200&v=4" width="30"/> Portainer  
+  <img src="https://avatars.githubusercontent.com/u/16325194?s=200&v=4" width="30"/> Traefik  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30"/> RabbitMQ  
+</p>
+
+---
+
+### 🧠 SOPs, Design, Diagramming & Collaboration
+<p align="left">
+  <img src="https://static-00.iconduck.com/assets.00/lucidchart-icon-512x512-2nm6xv8y.png" width="30"/> LucidChart  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Miro-logo.png" width="30"/> Miro  
+</p>
+
+---
+
+### 💬 CRMs
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/57478053?s=200&v=4" width="30"/> Chatwoot  
+  <img src="https://avatars.githubusercontent.com/u/170858631?s=200&v=4" width="30"/> Evolution API (WhatsApp)  
+  <img src="https://avatars.githubusercontent.com/u/65487629?s=200&v=4" width="30"/> GoHighLevel  
+</p>
+
+---
+
+### 🗄️ Data Bases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> SQL Server  
+  <img src="https://avatars.githubusercontent.com/u/695951?s=200&v=4" width="30"/> MinIO  
+</p>
+
+---
+
+### 🤖 Inteligencia Artificial y Modelos Generativos
+<p align="left">
+  <img src="https://static-00.iconduck.com/assets.00/openai-icon-512x512-nzcs1db9.png" width="30"/> OpenAI  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Google_Gemini_logo.svg" width="30"/> Google Gemini  
+  <img src="https://avatars.githubusercontent.com/u/103032834?s=200&v=4" width="30"/> Anthropic Claude  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Microsoft_Azure_Logo.svg" width="30"/> Azure OpenAI Service  
+</p>
+
+---
+
+### 👨‍💻 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  </a>  
+  <a href="https://github.com/tuusuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+  </a>  
+  <a href="https://tuweb.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30"/>
+  </a>  
+</p>
+
 
 ---
 
