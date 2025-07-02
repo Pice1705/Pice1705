@@ -18,7 +18,7 @@
 
 ---
 
-### 🔗 Automatización y No-Code / Low-Code
+### 🔗 Automatiin And No-Code / Low-Code
 <p align="left">
   <img src="https://static-00.iconduck.com/assets.00/n8n-icon-512x512-m9vmxhu3.png" width="30"/> n8n  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Zapier-logo.svg" width="30"/> Zapier  
@@ -84,7 +84,7 @@
 
 ---
 
-### 🤖 Inteligencia Artificial y Modelos Generativos
+### 🤖 AI MODELS
 <p align="left">
   <img src="https://static-00.iconduck.com/assets.00/openai-icon-512x512-nzcs1db9.png" width="30"/> OpenAI  
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Google_Gemini_logo.svg" width="30"/> Google Gemini  
@@ -98,13 +98,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/tuusuario" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-  </a>  
-  <a href="https://github.com/tuusuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-  </a>  
-  <a href="https://tuweb.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30"/>
-  </a>  
 </p>
 
 
