@@ -51,7 +51,7 @@
 ### 📦 Infrastructure, DevOps & Containers
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/32798795?s=200&v=4" width="30"/> Portainer  
-  <img src="https://avatars.githubusercontent.com/u/16325194?s=200&v=4" width="30"/> Traefik  
+  <img src="[[https://avatars.githubusercontent.com/u/16325194?s=200&v=4](https://postimg.cc/wyTbcxyc)](https://postimg.cc/wyTbcxyc)" width="30"/> Traefik  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30"/> RabbitMQ  
 </p>
 
