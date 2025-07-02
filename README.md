@@ -67,9 +67,9 @@
 
 ### 💬 CRMs
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/57478053?s=200&v=4" width="30"/> Chatwoot  
-  <img src="https://avatars.githubusercontent.com/u/170858631?s=200&v=4" width="30"/> Evolution API (WhatsApp)  
-  <img src="https://avatars.githubusercontent.com/u/65487629?s=200&v=4" width="30"/> GoHighLevel  
+  <img src="https://i.postimg.cc/fRh9p9tB/62bc2548d721c4316d3ef0e5-menu-image.png" width="30"/> Chatwoot  
+  <img src="https://i.postimg.cc/7ZM2kZSD/evolution-logo.png" width="30"/> Evolution API (WhatsApp)  
+  <img src="https://i.postimg.cc/wx4YTChm/unnamed.jpg" width="30"/> GoHighLevel  
 </p>
 
 ---
@@ -79,7 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> SQL Server  
-  <img src="https://avatars.githubusercontent.com/u/695951?s=200&v=4" width="30"/> MinIO  
+  <img src="https://i.postimg.cc/hGBH5cqH/MINIO-Bird.png" width="30"/> MinIO  
 </p>
 
 ---
