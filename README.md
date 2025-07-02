@@ -43,14 +43,14 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*fp3QKdgKAOJLwDmD.png" width="30"/> Typebot  
   <img src="https://meta-q.cdn.bubble.io/f1735656025985x589899456761148800/evolution-logo.png" width="30"/> Evolution API  
   <img src="https://cdn.zeabur.com/dify-icon.png" width="30"/> Dify  
-  <img src="[https://avatars.githubusercontent.com/u/142865401?s=200&v=4" width="30](https://media.licdn.com/dms/image/v2/D4E0BAQGowkB23f86_Q/company-logo_200_200/company-logo_200_200/0/1688158464819?e=2147483647&v=beta&t=4TOgBAwdUM0yc-HGoiGMc_Lieuxj6cl4sQcq7u5h-qE)"/> Flowise AI  
+  <img src="https://i.postimg.cc/66gRVS9s/1688158464819.jpg" width="30"/> Flowise AI  
 </p>
 
 ---
 
 ### 📦 Infrastructure, DevOps & Containers
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/32798795?s=200&v=4" width="30"/> Portainer  
+  <img src="https://i.postimg.cc/G298GPVh/png-transparent-portainer-hd-logo-thumbnail.png" width="30"/> Portainer  
   <img src="https://i.postimg.cc/d18PFLJX/images.png" width="30"/> Traefik  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30"/> RabbitMQ  
 </p>
@@ -59,8 +59,8 @@
 
 ### 🧠 SOPs, Design, Diagramming & Collaboration
 <p align="left">
-  <img src="https://static-00.iconduck.com/assets.00/lucidchart-icon-512x512-2nm6xv8y.png" width="30"/> LucidChart  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Miro-logo.png" width="30"/> Miro  
+  <img src="https://i.postimg.cc/TYbbt9wK/apps-7736-f1e439b9-777e-47dd-b695-f05d19eb7b38-8ee3e6f6-c400-4919-811d-59b0cd18fa41-e5bd6ef7-31e5-4c.png" width="30"/> LucidChart  
+  <img src="https://i.postimg.cc/tJKxX1rR/17d4a23-miro-logo-color-square.png" width="30/> Miro  
 </p>
 
 ---
@@ -86,10 +86,10 @@
 
 ### 🤖 AI MODELS
 <p align="left">
-  <img src="https://static-00.iconduck.com/assets.00/openai-icon-512x512-nzcs1db9.png" width="30"/> OpenAI  
+  <img src="https://i.postimg.cc/RZDW7p56/Chat-GPT-Logo-PNG-File.png" width="30"/> OpenAI  
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Google_Gemini_logo.svg" width="30"/> Google Gemini  
   <img src="https://avatars.githubusercontent.com/u/103032834?s=200&v=4" width="30"/> Anthropic Claude  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Microsoft_Azure_Logo.svg" width="30"/> Azure OpenAI Service  
+  <img src="https://i.postimg.cc/yN1SYCTR/azureai-color.png" width="30"/> Azure OpenAI Service  
 </p>
 
 ---
