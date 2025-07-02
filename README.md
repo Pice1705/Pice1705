@@ -20,9 +20,9 @@
 
 ### 🔗 Automatiin And No-Code / Low-Code
 <p align="left">
-  <img src="https://static-00.iconduck.com/assets.00/n8n-icon-512x512-m9vmxhu3.png" width="30"/> n8n  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Zapier-logo.svg" width="30"/> Zapier  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Make_logo_icon.svg" width="30"/> Make  
+  <img src="https://i.postimg.cc/dVBLfSKV/n8n-color.png" width="30"/> n8n  
+  <img src="https://i.postimg.cc/WpgpKfGc/Zapier-Symbol.png" width="30"/> Zapier  
+  <img src="https://i.postimg.cc/CL0MVH7B/make-color.png" width="30"/> Make  
 </p>
 
 ---
@@ -43,7 +43,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*fp3QKdgKAOJLwDmD.png" width="30"/> Typebot  
   <img src="https://meta-q.cdn.bubble.io/f1735656025985x589899456761148800/evolution-logo.png" width="30"/> Evolution API  
   <img src="https://cdn.zeabur.com/dify-icon.png" width="30"/> Dify  
-  <img src="https://avatars.githubusercontent.com/u/142865401?s=200&v=4" width="30"/> Flowise AI  
+  <img src="[https://avatars.githubusercontent.com/u/142865401?s=200&v=4" width="30](https://media.licdn.com/dms/image/v2/D4E0BAQGowkB23f86_Q/company-logo_200_200/company-logo_200_200/0/1688158464819?e=2147483647&v=beta&t=4TOgBAwdUM0yc-HGoiGMc_Lieuxj6cl4sQcq7u5h-qE)"/> Flowise AI  
 </p>
 
 ---
