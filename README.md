@@ -37,4 +37,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://static-00.iconduck.com/assets.00/n8n-icon-512x512-m9vmxhu3.png" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/lucidchart-icon-512x512-2nm6xv8y.png" width="40" height="40"/>
 </p>
