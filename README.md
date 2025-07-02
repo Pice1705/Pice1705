@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">AI & Automation Engineer | Founder of No Limit Empowerment 🚀</h3>
+<h3 align="center">AI & Automation Engineer | Full Stack Developer</h3>
 
 ---
 
@@ -9,16 +9,15 @@
 - 💻 Con conocimientos en **JavaScript, HTML y CSS** para crear soluciones personalizadas y eficientes.  
 - 🚀 **Líder de la agencia de IA [No Limit Empowerment](#)**, donde ayudamos a empresas a automatizar procesos, optimizar operaciones y escalar resultados mediante IA y automatización avanzada.  
 - 💡 En constante aprendizaje sobre IA aplicada, RPA, y desarrollo de soluciones digitales.  
-- 🎯 Filosofía: *"Si algo se puede automatizar, se debe automatizar."*
 
 ---
 
 ### 🛠️ Tech Stack:
 - **Automation:** n8n, Zapier, Make, APIs, Webhooks  
-- **Languages:** JavaScript, HTML, CSS  
-- **Cloud & APIs:** REST APIs, API Integrations, SaaS Connections  
-- **Tools:** Git, GitHub, Docker, Postman, VS Code  
-- **IA:** OpenAI, LangChain, IA aplicada en flujos de trabajo empresariales  
+- **Languages:** JavaScript, HTML, CSS, C#, React, Node  
+- **Cloud & APIs:** REST APIs, API Integrations, SaaS Connections, Azure, Google Cloud
+- **Tools:** Git, GitHub, Docker, Postman, VS Code
+- **IA:** OpenAI, Google Gemini, Anthropic Claude, Cohere AI, Azure OpenAI Service, DeepL API
 
 ---
 
@@ -36,6 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/n8n-icon-512x512-m9vmxhu3.png" width="40" height="40"/>
+  <img src="[https://static-00.iconduck.com/assets.00/n8n-icon-512x512-m9vmxhu3.png" width="40" height="40](https://images.seeklogo.com/logo-png/47/2/n8n-logo-png_seeklogo-470809.png)"/>
   <img src="https://static-00.iconduck.com/assets.00/lucidchart-icon-512x512-2nm6xv8y.png" width="40" height="40"/>
 </p>
