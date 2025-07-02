@@ -60,7 +60,7 @@
 ### 🧠 SOPs, Design, Diagramming & Collaboration
 <p align="left">
   <img src="https://i.postimg.cc/TYbbt9wK/apps-7736-f1e439b9-777e-47dd-b695-f05d19eb7b38-8ee3e6f6-c400-4919-811d-59b0cd18fa41-e5bd6ef7-31e5-4c.png" width="30"/> LucidChart  
-  <img src="https://i.postimg.cc/tJKxX1rR/17d4a23-miro-logo-color-square.png" width="30/> Miro  
+  <img src="https://i.postimg.cc/tJKxX1rR/17d4a23-miro-logo-color-square.png" width="30" /> Miro  
 </p>
 
 ---
@@ -87,8 +87,8 @@
 ### 🤖 AI MODELS
 <p align="left">
   <img src="https://i.postimg.cc/RZDW7p56/Chat-GPT-Logo-PNG-File.png" width="30"/> OpenAI  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Google_Gemini_logo.svg" width="30"/> Google Gemini  
-  <img src="https://avatars.githubusercontent.com/u/103032834?s=200&v=4" width="30"/> Anthropic Claude  
+  <img src="https://i.postimg.cc/XJhZ8G6K/gemini-icon-logo-png-seeklogo-611605.png" width="30"/> Google Gemini  
+  <img src="https://i.postimg.cc/5jW6hh06/claude-ai-icon-65aa.png" width="30"/> Anthropic Claude  
   <img src="https://i.postimg.cc/yN1SYCTR/azureai-color.png" width="30"/> Azure OpenAI Service  
 </p>
 
