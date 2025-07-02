@@ -40,7 +40,7 @@
 
 ### 🔧 Open Source Tools
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/93197406?s=200&v=4" width="30"/> Typebot  
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*fp3QKdgKAOJLwDmD.png" width="30"/> Typebot  
   <img src="https://avatars.githubusercontent.com/u/170858631?s=200&v=4" width="30"/> Evolution API  
   <img src="https://avatars.githubusercontent.com/u/150088218?s=200&v=4" width="30"/> Dify  
   <img src="https://avatars.githubusercontent.com/u/142865401?s=200&v=4" width="30"/> Flowise AI  
